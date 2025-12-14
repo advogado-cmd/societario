@@ -140,7 +140,7 @@ export function Hero() {
               <div className="absolute -inset-4 bg-secondary-gold/20 rounded-2xl blur-2xl"></div>
               <div className="relative bg-gradient-to-b from-secondary-gold/20 to-transparent p-1 rounded-2xl">
                 <Image
-                  src="/images/carlosface-20-282-29.jpeg"
+                  src="/images/forumboa.jpeg"
                   alt="Dr. Carlos Fernando Lopes de Oliveira - Advogado Societário"
                   width={500}
                   height={600}

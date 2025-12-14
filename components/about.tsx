@@ -33,7 +33,7 @@ export function About() {
           <div className="relative">
             <div className="absolute -inset-4 bg-primary-blue/10 rounded-2xl"></div>
             <Image
-              src="/images/dsc-5548-20-281-29.jpeg"
+              src="/images/mesaboa.jpeg"
               alt="Dr. Carlos Fernando Lopes de Oliveira - Advogado Especialista em Direito Societário"
               width={600}
               height={700}
